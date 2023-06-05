@@ -1,0 +1,39 @@
+{
+  "cities": [
+    {
+      "name": "New York City",
+      "destinations": [
+        "Statue of Liberty",
+        "Times Square"
+      ]
+    },
+    {
+      "name": "Los Angeles",
+      "destinations": [
+        "Hollywood Walk of Fame",
+        "Universal Studios"
+      ]
+    },
+    {
+      "name": "Chicago",
+      "destinations": [
+        "Millennium Park",
+        "The Art Institute of Chicago"
+      ]
+    },
+    {
+      "name": "San Francisco",
+      "destinations": [
+        "Golden Gate Bridge",
+        "Alcatraz Island"
+      ]
+    },
+    {
+      "name": "Las Vegas",
+      "destinations": [
+        "The Strip",
+        "Fremont Street Experience"
+      ]
+    }
+  ]
+}
